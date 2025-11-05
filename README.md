@@ -1,8 +1,7 @@
 # quantum-nlp-lambeq
 Hands-on lambeq experiments — QNLP demos and notes
 Few of the notes and projects I will build using https://docs.quantinuum.com/lambeq/tutorials/quickstart.html
-# Create an impressive README
-readme_content = """
+
 # Quantum Natural Language Inference (QNLI)
 
 Implementing quantum circuits for natural language inference using lambeq and PennyLane.
